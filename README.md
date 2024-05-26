@@ -1,9 +1,9 @@
 This Project is a Fork off of https://github.com/yashgo0018/maci-wrapper
 (even though it is not shown in the top of the repository)
 
-# Scaffold ETH 2 + MACI Voting Template
+# PriMaci Frontend Voting Template
 
-Welcome to the Scaffold ETH 2 + MACI Voting Template! This template is a powerful starting point for developers aiming to build decentralized voting applications that prioritize privacy and resist collusion. Combining the rapid development environment of Scaffold ETH with the innovative Minimal Anti-Collusion Infrastructure (MACI), this template offers a robust foundation for creating secure and transparent voting systems on the Ethereum blockchain.
+Welcome to the PriMaci Frontend Voting Template!
 
 ## Features
 
@@ -33,8 +33,9 @@ cd ETHBFrontEnd
 yarn install
 ```
 
-3. **Add the Previous Deployment Contracts from the Backend**
-   You should either already have to contract addresses, that you want to use on Sepolia, or you can deploy your own using: https://github.com/CodeByNikolas/EthBBackend
+2. **Add the Previous Deployment Contracts from the Backend**
+
+You should either already have to contract addresses, that you want to use on Sepolia, or you can deploy your own using: https://github.com/CodeByNikolas/EthBBackend
 
 Copy the Contract adresses from your Backend deployment into the
 
@@ -48,7 +49,7 @@ also make sure to copy the deployment folder over to
 /pachages/hardhat/deployments
 ```
 
-4. **Launch the NextJS Application**
+3. **Launch the NextJS Application**
 
 In a terminal, start the NextJS frontend:
 
