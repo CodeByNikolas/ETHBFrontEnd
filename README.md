@@ -1,4 +1,4 @@
-This Project is a Fork off of https://github.com/scaffold-eth/scaffold-eth-2
+This Project is a Fork off of https://github.com/yashgo0018/maci-wrapper
 (even though it is not shown in the top of the repository)
 
 # Scaffold ETH 2 + MACI Voting Template
