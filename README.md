@@ -54,6 +54,8 @@ also make sure to copy the deployment folder over to
 In a terminal, start the NextJS frontend:
 
 ```bash
+cd packages/nextjs
+yarn install
 yarn start
 ```
 
